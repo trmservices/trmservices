@@ -1,0 +1,125 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+h1 {
+  font-family: courier;
+  padding:50px;
+}
+body {
+  background-color: black;
+  color: purple;
+  padding: auto;
+}
+
+h1 {
+  text-shadow: 1px -2px 1px white;
+}
+
+.prices {
+  text-shadow: 1px -2px 1px rgb(0, 0, 0);
+  color: rgb(78, 152, 221);
+  text-align: center;
+  margin: 20px;
+}
+
+.motto {
+  text-align: center;
+}
+.name {
+  text-align: center;
+
+}
+.INFO {
+  text-shadow: 1px -2px 1px rgb(0, 0, 0);
+  color: rgb(78, 152, 221);
+  text-align: center;
+  margin: 20px;
+  width: 15%;
+  border-radius: 10px;
+  min-height: 300px;
+  line-height: 1.5;
+
+  background-image: url("images/image.jpg");
+  border-radius: 10px;
+
+  /* Set a specific height */
+  min-height: 330px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+}
+.parallax {
+  /* The image used */
+  background-image: url("images/wallpapersden.com_jujutsu-kaisen-4k-minimal-satoru-gojo-art_4000x2250.jpg");
+  border-radius: 2%;
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.textbox {
+  
+  margin: auto;
+  margin-top: 4%;
+  width: 15%;
+  /* The image used */
+  background-image: url("images/image.jpg");
+  border-radius: 10px;
+
+  /* Set a specific height */
+  min-height: 100px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  font-family: monospace;
+  font-style: italic;
+}
+
+li {
+  line-height: 2;
+}
+
+
+
+a:link {
+
+  color:cornsilk;
+}
+a:active {
+
+  color:cornsilk;
+}
+a:hover {
+
+  color:cornsilk;
+}
+a:visited {
+  
+  color:cornsilk;
+}
+.link {
+  margin: auto;
+  border: 2px outset darkviolet;
+  background-color: cadetblue;
+  width: 20%;
+  border-radius: 15px;
+  margin-bottom: 2%;
+  text-align: center;
+}
