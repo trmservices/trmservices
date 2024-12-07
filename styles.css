@@ -42,7 +42,7 @@ h1 {
   min-height: 300px;
   line-height: 1.5;
 
-  background-image: url("images/image.jpg");
+  background-image: url("image.jpg");
   border-radius: 10px;
 
   /* Set a specific height */
@@ -57,7 +57,7 @@ h1 {
 }
 .parallax {
   /* The image used */
-  background-image: url("images/wallpapersden.com_jujutsu-kaisen-4k-minimal-satoru-gojo-art_4000x2250.jpg");
+  background-image: url("wallpapersden.com_jujutsu-kaisen-4k-minimal-satoru-gojo-art_4000x2250.jpg");
   border-radius: 2%;
 
   /* Set a specific height */
@@ -76,7 +76,7 @@ h1 {
   margin-top: 4%;
   width: 15%;
   /* The image used */
-  background-image: url("images/image.jpg");
+  background-image: url("image.jpg");
   border-radius: 10px;
 
   /* Set a specific height */
